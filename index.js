@@ -16,5 +16,5 @@ function logWhisper(string) {
 }
 
 function whispher(string) {
-  return string.toLowerCase
+  return string.toLowerCase()
 }
